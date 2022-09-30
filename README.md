@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [my portfolio website](https://abdi-el.netlify.app/)
 
-- 🌱 I’m currently learning **Dev Ops**
-
 - 👨‍💻 All of my projects are available at [https://abdi-el.netlify.app/](https://abdi-el.netlify.app/)
 
 - 📫 How to reach me **abdila1099@gmail.com**

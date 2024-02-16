@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelilah El Hajji</h1>
-<h3 align="center">Web Dev/h3>
+<h3 align="center">Web Dev </h3> 
 
 - 🔭 I’m currently working on a desktop app using eel and alpine.js
 

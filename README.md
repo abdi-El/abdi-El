@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelilah El Hajji</h1>
 <h3 align="center">Web Dev </h3> 
 
-- 🔭 I’m currently working on a desktop app using Tauri and SQLite
+- 🔭 I’m currently working on my web app
 
 - 👨‍💻 All of my projects are available at [https://abdi-el.netlify.app/](https://abdi-el.netlify.app/)
 
